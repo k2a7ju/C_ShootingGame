@@ -1,7 +1,7 @@
 #ShootingGame
 Cで作成したシューティングゲーム
 
-#実行内容
+#実行方法
 http://ylb.jp/2010b/kisop2/eggxinstaller/index.html
 を参考にEGGXライブラリをインストールし、  
 eggコマンドでコンパイルし、実行
